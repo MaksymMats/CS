@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secondlab_thirdtask", "secondlab_thirdtask\secondlab_thirdtask.csproj", "{BBDB90E2-B376-47D8-A03A-D65C5F2613D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secondlab_secondtask", "..\secondlab_secondtask\secondlab_secondtask\secondlab_secondtask.csproj", "{BFD7815C-35B8-41F7-B130-8BF02CE2D6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDB90E2-B376-47D8-A03A-D65C5F2613D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDB90E2-B376-47D8-A03A-D65C5F2613D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDB90E2-B376-47D8-A03A-D65C5F2613D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDB90E2-B376-47D8-A03A-D65C5F2613D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD7815C-35B8-41F7-B130-8BF02CE2D6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD7815C-35B8-41F7-B130-8BF02CE2D6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD7815C-35B8-41F7-B130-8BF02CE2D6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD7815C-35B8-41F7-B130-8BF02CE2D6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC8A6A2-6C90-427C-BC92-4954D6D355D0}
+	EndGlobalSection
+EndGlobal

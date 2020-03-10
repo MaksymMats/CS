@@ -1,0 +1,6 @@
+C:\Users\maksi\Desktop\КС\secondlab_thirdtask\secondlab_thirdtask\bin\Debug\secondlab_thirdtask.exe.config
+C:\Users\maksi\Desktop\КС\secondlab_thirdtask\secondlab_thirdtask\bin\Debug\secondlab_thirdtask.exe
+C:\Users\maksi\Desktop\КС\secondlab_thirdtask\secondlab_thirdtask\bin\Debug\secondlab_thirdtask.pdb
+C:\Users\maksi\Desktop\КС\secondlab_thirdtask\secondlab_thirdtask\obj\Debug\secondlab_thirdtask.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\КС\secondlab_thirdtask\secondlab_thirdtask\obj\Debug\secondlab_thirdtask.exe
+C:\Users\maksi\Desktop\КС\secondlab_thirdtask\secondlab_thirdtask\obj\Debug\secondlab_thirdtask.pdb
